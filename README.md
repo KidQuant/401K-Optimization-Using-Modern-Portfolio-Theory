@@ -27,4 +27,4 @@ I used data from the Yahoo Finance API, which provides daily, weekly, monthly, a
 5. Scipy
 6. Seaborn
 7. datetime
-8. yFinance
+8. yFinance (formally known as `fix_yahoo_finance`
