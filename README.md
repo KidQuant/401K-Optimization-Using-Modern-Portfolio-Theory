@@ -18,9 +18,9 @@ This analysis will allow us to efficiently allocate a hypotheical investment bud
 
 I used data from the Yahoo Finance API, which provides daily, weekly, monthly, and annual historical and real-time information on a wide range of assets, including stocks, options, commodities and exchange-traded funds. We only used two years worth of asset pricing data.
 
-### Enviroment and tools
+### Enviroment and Tools
 
-1. Jupyter Notebook
+1. Jupyter NoteBook
 2. Numpy
 3. Pandas
 4. Matplotlib
