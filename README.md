@@ -10,7 +10,7 @@ Our goals involved the following:
 
 - **Part 1**: Analyze the historical price trends of 5 different mutual funds involving factors regarding average annualized returns and volatility
 - **Part 2**: Engineer scenarios that allow us to create the most optimal portfolio allocation, given the risk and return of our 5 mutual funds
-- **Part 3**: Use the optimal portfolio allocation to create what is known as the "Efficient Frontier" using what we know about Modern Portfolio Theory.
+- **Part 3**: Use the optimal portfolio allocation to create what is known as the "Efficient Frontier" using what we know about Modern Portfolio Theory
 
 This analysis will allow us to efficiently allocate a hypotheical investment budget any preferred asset class, not just mutual funds.
 
